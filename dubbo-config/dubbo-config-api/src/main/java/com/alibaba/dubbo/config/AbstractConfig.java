@@ -37,7 +37,7 @@ import java.util.regex.Pattern;
 
 /**
  * Utility methods and public methods for parsing configuration
- *
+ * 主要提供配置解析与校验相关的工具方法
  * @export
  */
 public abstract class AbstractConfig implements Serializable {
